@@ -28,9 +28,11 @@ A 3D survival adventure game built in Unity. Stranded on a chain of floating isl
 
 ## 🚀 How to Play
 
-1. Run the game by launching TermProject.exe.
-2. Use `WASD` to move and left-click to shoot.
-3. Collect all plane parts while avoiding or defeating enemies to escape the floating islands!
+1. Download the standalone build:  
+[Click here to download TermProject.zip (Google Drive)](https://drive.google.com/file/d/1rHlQauaNHJcuvrP-OP73--9_xjKp7KDt/view?usp=sharing)
+2. Run the game by launching TermProject.exe.
+3. Use `WASD` to move and left-click to shoot.
+4. Collect all plane parts while avoiding or defeating enemies to escape the floating islands!
 
 ## 👤 Author
 
